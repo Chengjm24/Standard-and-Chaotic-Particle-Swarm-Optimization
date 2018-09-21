@@ -4,7 +4,7 @@ clear all;
 %swarm definition
 d=2;
 n=50;
-smin=1*ones(1,d);
+smin=100*ones(1,d);
 smax=100*ones(1,d);
 m1=1;
 m2=100;
